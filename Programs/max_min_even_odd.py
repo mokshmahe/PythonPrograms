@@ -1,3 +1,6 @@
+# Author: Moksh Maheshwari
+# Finds the Maximum, Minimum, even and odd classification. 
+
 def findMax_Min(m,n):
 	if m>n:
 		print('Greater no. is: ',m)

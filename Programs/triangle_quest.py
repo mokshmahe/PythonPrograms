@@ -1,3 +1,4 @@
+# Author: Moksh Maheshwari
 '''You are given a positive integer . Print a numerical triangle of height  like the one below:
 
 1

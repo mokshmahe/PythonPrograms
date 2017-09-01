@@ -1,5 +1,14 @@
+# Author: Moksh Maheshwari
+# Function allows to split the string and join it back with '-' delimiter.
+'''
+Sample Input
+
+this is a string   
+Sample Output
+
+this-is-a-string
+'''
 def split_and_join(line):
-    # write your code here
     s = "-"
     a = line.split(" ")
     return s.join(a)

@@ -1,3 +1,5 @@
+# Author: Moksh Maheshwari
+# prints the given patterns upto the given level
 def pattern1(lvl):
 	'''pattern 1:
 	*

@@ -1,3 +1,5 @@
+# Author: Moksh Maheshwari
+
 #To calculate LCM of two numbers:
 
 def LCM(x,y):

@@ -1,3 +1,6 @@
+# Author: Moksh Maheshwari
+#Swaps the value of two variables.
+
 def swap(a,b):
 	temp = a
 	a=b

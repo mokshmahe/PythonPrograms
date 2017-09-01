@@ -1,3 +1,5 @@
+# Author: Moksh Maheshwari
+#Provides the quadratic equation's roots.
 def roots(a,b,c):
 	x = b**2 - 4*a*c
 

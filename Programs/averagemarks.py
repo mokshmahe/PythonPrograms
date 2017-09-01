@@ -1,3 +1,4 @@
+# Author: Moksh Maheshwari
 #Write a program to accept roll no and marks of 3 subjects of a student, Calculate total of 3 subjects and average.
 
 def total(m1,m2,m3):

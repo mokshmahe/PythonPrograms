@@ -1,3 +1,5 @@
+# Author: Moksh Maheshwari
+# Basic calculator stuff.
 def Add(a,b):
 	return a+b
 
